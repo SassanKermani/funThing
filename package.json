@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "npm": "^5.8.0",
+    "systemjs-nodelibs": "^1.0.0"
+  }
+}
